@@ -1,0 +1,17 @@
+flask
+requests
+google-cloud-dialogflow
+pytz
+pymysql
+pandas
+redis
+gspread
+oauth2client
+openpyxl
+python-dotenv
+pymessenger
+aiofiles
+aiohttp
+python-magic
+sched2
+sqlitedict

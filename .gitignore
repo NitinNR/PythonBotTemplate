@@ -1,0 +1,7 @@
+.env
+sqlitedatabase/**
+__pycache__
+**/__pycache__/
+logs/**
+keys/apikey.json
+**.sqlite
