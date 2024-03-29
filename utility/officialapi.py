@@ -9,12 +9,7 @@ class LiveBot():
     APIUrl = 'http://api.gupshup.io/sm/api/v1/'
     source_no = ""
     src_name = ""
-    # def __init__(self):
-        
-    #     # self.token = 'j19ksi1mim1lksm5007'
-    #     # ?token={self.token}
 
-    # 'apikey': 'adcc11aa6aec4c70ccd1aa19041b8267'
     def send_requests(self, method, data):
         url = f"{self.APIUrl}{method}"
         headers = {
